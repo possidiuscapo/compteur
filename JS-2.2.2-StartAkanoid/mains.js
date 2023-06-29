@@ -103,10 +103,10 @@ document.addEventListener("DOMContentLoaded", function () {
     }
     formatNumber()
 
-});
+// });
 
-/** 
- * // // largeur du navigateur
+ 
+  // // largeur du navigateur
     // // console.log(windowWidth)
     // console.dir(ball1.scrollWidth)
     
@@ -163,4 +163,3 @@ document.addEventListener("DOMContentLoaded", function () {
     }
 });
 
-*/
